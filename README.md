@@ -8,7 +8,8 @@ Recuerda que la plataforma [MyIronhack](https://my.ironhack.com/lms/courses/cour
 
 
 Amanda Gálvez [@agalvezcorell](https://github.com/agalvezcorell)       
-Ana García [@anaAGG](https://github.com/anaAGG)         
+Ana García [@anaAGG](https://github.com/anaAGG)   
+Sonia G. Fominaya [@Fominayasg](https://github.com/Fominayasg)
 
 
 <p align="center">
