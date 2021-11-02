@@ -19,7 +19,10 @@ see: https://towardsdatascience.com/designing-a-relational-database-and-creating
 #############################
 # doomsday!
 
+DROP DATABASE IF EXISTS school;
 
+
+sdlkgjwkdgj
 
 #############################
 #      CREATE THE TABLES    #
