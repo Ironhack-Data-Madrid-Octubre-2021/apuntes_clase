@@ -59,5 +59,10 @@ devuelva un registro para cada título (incluso los que no se vendieron). */
 
 
 
+SELECT title, SUM(qty) AS vendidos
+FROM titles
+LEFT JOIN sales
+ON sales.title_id = titles.title_id
+GROUP BY title;
 
 
