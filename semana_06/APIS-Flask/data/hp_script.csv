@@ -1,0 +1,794 @@
+ID_number,scene,character_name,dialogue
+1,1,Albus Dumbledore,"I should have known that you would be here, Professor McGonagall."
+2,1,Minerva McGonagall,"Good evening, Professor Dumbledore. Are the rumours true Albus?"
+3,1,Albus Dumbledore,"I'm afraid so, Professor. The good, and the bad."
+4,1,Minerva McGonagall,And the boy?
+5,1,Albus Dumbledore,Hagrid is bringing him.
+6,1,Minerva McGonagall,Do you think it wise to trust Hagrid with something as important as this?
+7,1,Albus Dumbledore,"Ah, Professor, I would trust Hagrid with my life."
+8,1,Rubeus Hagrid,"Professor Dumbledore, Sir. Professor McGonagall."
+9,1,Albus Dumbledore,"No problems, I trust, Hagrid?"
+10,1,Rubeus Hagrid,"No, Sir. Little tyke fell asleep just as we were flying over Bristol. Heh.Try not to wake him. There you go."
+11,1,Minerva McGonagall,"Albus, do you really think it's safe, leaving him with these people? I've watched them all day. They're the worst sort of Muggles imaginable. They really are…"
+12,1,Albus Dumbledore,The only family he has.
+13,1,Minerva McGonagall,This boy will be famous. There won't be a child in our world who doesn't know his name.
+14,1,Albus Dumbledore,Exactly. He's far better off growing up away from all of that. Until he is ready.
+15,1,Albus Dumbledore,"There there, Hagrid. It's not really goodbye, after all."
+16,1,Albus Dumbledore,"Good luck, Harry Potter."
+17,2,Petunia Dursley,Up. Get up. Now!
+18,2,Dudley Dursley,"Wake up, cousin! We're going to the zoo!"
+19,2,Petunia Dursley,"Oh, here he comes, the birthday boy!"
+20,2,Vernon Dursley,"Happy birthday, son."
+21,2,Petunia Dursley,"Why don't you just cook the breakfast, and try not to burn anything."
+22,2,Harry Potter,"Yes, Aunt Petunia."
+23,2,Petunia Dursley,I want everything to be perfect for my Dudley's special day.
+24,2,Vernon Dursley,"Hurry up! Bring my coffee, boy!"
+25,2,Harry Potter,"Yes, Uncle Vernon."
+26,2,Petunia Dursley,"Aren't they wonderful, darling?"
+27,2,Dudley Dursley,How many are there?
+28,2,Vernon Dursley,Thirty-six. Counted them myself.
+29,2,Dudley Dursley,"Thirty-six?! But last year, last year I had thirty-seven!"
+30,2,Vernon Dursley,"Err yes, well, some of them are quite a bit bigger than last year."
+31,2,Dudley Dursley,I don't care how big they are!
+32,2,Petunia Dursley,"Oh, now, now, now. This is what we're going to do, is that when we go out, we're going to buy you two new presents! How's that, pumpkin?"
+33,2,Petunia Dursley,This will be a lovely day at the zoo. I'm really looking forward to it.
+34,2,Vernon Dursley,"I'm warning you now, boy. Any funny business, any at all, and you won't have any meals for a week. Get in."
+35,2,Dudley Dursley,Make it move.
+36,2,Vernon Dursley,Move!
+37,2,Dudley Dursley,MOVE!
+38,2,Harry Potter,He's asleep!
+39,2,Dudley Dursley,He's boring.
+40,2,Harry Potter,"Sorry about him. He doesn't understand what it's like, lying there day after day, having people press their ugly faces in on you."
+41,2,Harry Potter,Can you… hear me? It's just… I've never talked to a snake before. Do you… I mean… do you talk to people often?
+42,2,Harry Potter,"You're from Burma, aren't you? Was it nice there, do you miss your family?"
+43,2,Harry Potter,"I see. That's me as well. I never knew my parents, either."
+44,2,Dudley Dursley,"Mummy, dad, come here! You won't believe what this snake is doing!"
+45,2,Dudley Dursley,Whoa! Ahh! Ahh!!
+46,2,Snake,Thanks.
+47,2,Harry Potter,Any time.
+48,2,Dudley Dursley,"Mum, mummy!"
+49,2,Petunia Dursley,AHH!
+50,2,Dudley Dursley,"Mum, help! Help me!"
+51,2,Petunia Dursley,"My darling boy! How did you get in there?! How did you get in there? Dursley, oh, Dursley!"
+52,3,Petunia Dursley,"It's all right, sweetheart. It's all right."
+53,3,Harry Potter,Ow!
+54,3,Vernon Dursley,What happened?!
+55,3,Harry Potter,"I swear I don't know! One minute, the glass was there and then it was gone! It was like magic!"
+56,3,Vernon Dursley,There's no such thing as magic!
+57,3,Vernon Dursley,"Oh, Marge is ill! Ate a funny whelk."
+58,3,Dudley Dursley,Dad! Look! Harry's got a letter!
+59,3,Harry Potter,"Hey, give it back! It's mine!"
+60,3,Vernon Dursley,Yours? Who'd be writing to you?
+61,3,Vernon Dursley,No more mail through this letterbox.
+62,3,Petunia Dursley,"Have a lovely day at the office, dear."
+63,3,Vernon Dursley,Shoo! Go on!
+64,3,Vernon Dursley,"Fine day Sunday. In my opinion, best day of the week. Why is that, Dudley?"
+65,3,Harry Potter,Because there's no post on Sunday?
+66,3,Vernon Dursley,"Ah, right you are, Harry. No post on Sunday. Ha! No blasted letters today. No, sir. Not one single letter, not one. No, sir, not one blasted, miserable-"
+67,3,Dudley Dursley,AHH! Make it stop! Please make it stop! 
+68,3,Vernon Dursley,"Go away, ahh!"
+69,3,Dudley Dursley,What is it? Please tell me what is happening!
+70,3,Vernon Dursley,Give me that! Give me that letter!
+71,3,Harry Potter,Get off! Ahh!
+72,3,Vernon Dursley,Ahh!
+73,3,Harry Potter,They're my letters! Let go of me!
+74,3,Vernon Dursley,That's it! We're going away! Far away! Where they can't find us!
+75,3,Dudley Dursley,"Daddy's gone mad, hasn't he?!"
+76,4,Harry Potter,"Make a wish, Harry."
+77,4,Vernon Dursley,Who's there? Ahh!
+78,4,Rubeus Hagrid,Sorry 'bout that.
+79,4,Vernon Dursley,"I demand that you leave at once, sir! You are breaking and entering!"
+80,4,Rubeus Hagrid,"Dry up, Dursley, you great prune. "
+81,4,Rubeus Hagrid,"Boy, I haven't seen you since you was a baby, Harry, but you're a bit more along than I would have expected. Particularly 'round the middle!"
+82,4,Dudley Dursley,I-I-I'm not Harry.
+83,4,Harry Potter,I-I am.
+84,4,Rubeus Hagrid,"Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste just the same. Ahh. Baked it myself. Words and all. Heh."
+85,4,Harry Potter,Thank you!
+86,4,Rubeus Hagrid,"It's not every day that your young man turns eleven, now is it?"
+87,4,Harry Potter,"Excuse me, who are you?"
+88,4,Rubeus Hagrid,"Rubeus Hagrid. Keeper of keys and grounds at Hogwarts. Course, you'll know all about Hogwarts."
+89,4,Harry Potter,"Sorry, no."
+90,4,Rubeus Hagrid,"No? Blimey, Harry, didn't you ever wonder where your mum and dad learned it all?"
+91,4,Harry Potter,Learned what?
+92,4,Rubeus Hagrid,"You're a wizard, Harry."
+93,4,Harry Potter,I-I'm a what?
+94,4,Rubeus Hagrid,"A wizard. And a thumping good one at that, I'd wager. Once you train up a little."
+95,4,Harry Potter,"No, you've made a mistake. I can't be… a-a wizard. I mean, I'm just… Harry. Just Harry."
+96,4,Rubeus Hagrid,"Well, just Harry. Did you ever make anything happen? Anything you couldn't explain when you were angry or scared? Ah."
+97,4,Harry Potter,"Dear, Mr. Potter. We are pleased to inform you that you have been accepted at Hogwarts' School of Witchcraft and Wizardry."
+98,4,Vernon Dursley,"He'll not be going! We swore when we took him in, we'd put a stop to this rubbish!"
+99,4,Harry Potter,You knew? You know all along and you never told me?
+100,4,Petunia Dursley,"Of course we knew. How could you not be? My perfect sister being who she was. Oh, my mother and father were so proud the day she got her letter. We have a witch in the family. Isn't it wonderful? I was the only one to see her for what she was. A freak! And then she met that Potter, and then she had you, and I knew you'd be just the same, just as strange, just as... abnormal. And then, if you please, she went and got herself blown up. And we got landed with you."
+101,4,Harry Potter,Blown up? You told me my parents died in a car crash!
+102,4,Rubeus Hagrid,A car crash? A car crash kill Lily and James Potter?
+103,4,Petunia Dursley,We had to tell him something.
+104,4,Rubeus Hagrid,It's an outrage! It's a scandal!
+105,4,Vernon Dursley,"He'll not be going! We swore when we took him in, we'd put a stop to this rubbish!"
+106,4,Rubeus Hagrid,"Oh, and I suppose a great Muggle like yourself's going to stop him, are you?"
+107,4,Harry Potter,Muggle?
+108,4,Rubeus Hagrid,"Non magic folk. This boy's had his name down ever since he was born! He's going to the finest school of witchcraft and wizardry in the world, and he'll be under the finest headmaster that Hogwarts has ever seen: Albus Dumbledore."
+109,4,Vernon Dursley,I will not pay for some crackpot old fool to teach him magic tricks!
+110,4,Rubeus Hagrid,"Never, insult Albus Dumbledore, in front of me."
+111,4,Dudley Dursley,Ahh!
+112,4,Rubeus Hagrid,"Oh, um, I'd appreciate if you didn’t tell anyone at Hogwarts about that. Strictly speaking, I'm not allowed to do magic."
+113,4,Harry Potter,Okay.
+114,4,Rubeus Hagrid,"Ooh, we're a bit behind schedule. Best be off. Unless you'd rather stay, of course! Hmm?"
+115,5,Harry Potter,"All students must be equipped with… one standard size two pewter cauldron, and may bring if they desire, either an owl, a cat or a toad. Could we find all this in London?"
+116,5,Rubeus Hagrid,If you know where to go.
+117,5,Tom,"Ah, Hagrid! The usual, I presume?"
+118,5,Rubeus Hagrid,"No thanks, Tom. I'm on official Hogwarts business today. Just helping young Harry here buy his school supplies."
+119,5,Tom,Bless my soul. It's Harry Potter.
+120,5,Doris Crockford,"Doris Crockford, Mr. Potter. I can't believe I'm meeting you at least."
+121,5,Quirinus Quirrell,Harry P-potter. C-can't tell you how pleased I am to meet you.
+122,5,Rubeus Hagrid,"Hello, Professor. I didn't see you there. Harry, this is Professor Quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts."
+123,5,Harry Potter,"Oh, nice to meet you."
+124,5,Quirinus Quirrell,"F-fearfully fascinating subject. N-not that you need it, eh, Potter? Heheh."
+125,5,Rubeus Hagrid,"Yes, well, must be going now. Lots to buy. Heh."
+126,5,Harry Potter,Goodbye.
+127,5,Rubeus Hagrid,"See, Harry, you're famous!"
+128,5,Harry Potter,"But why am I famous, Hagrid? All those people back there, how is it they know who I am?"
+129,5,Rubeus Hagrid,"I'm not exactly sure I'm the right person to tell you that, Harry. Welcome, Harry, to Diagon Alley. Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry."
+130,6,Harry Potter,"But, Hagrid, how am I to pay for all this? I haven't any money."
+131,6,Rubeus Hagrid,"Well, there's your money, Harry. Gringotts, the Wizard Bank. Aint no place safer, 'cept perhaps Hogwarts."
+132,6,Harry Potter,"Uh, Hagrid, what exactly are these things?"
+133,6,Rubeus Hagrid,"They're goblins, Harry. Clever as they come goblins, but not the most friendly of beasts. Best stick close to me. Mr. Harry Potter wishes to make a withdrawal."
+134,6,Goblin,And does Mr. Harry Potter have his key?
+135,6,Rubeus Hagrid,"Oh. Wait a minute. Got it here somewhere. Hah. There's the little devil. Oh, and there's something else as well. Professor Dumbledore gave me this. It's about you-know-what in vault you-know-which."
+136,6,Goblin,Very well.
+137,6,Griphook,"Vault six-hundred-and-eighty-seven. Lamp, please. Key, please."
+138,6,Rubeus Hagrid,"Didn't think your mum and dad would leave you with nothing now, did ya?"
+139,6,Griphook,Vault seven-hundred-and-thirteen.
+140,6,Harry Potter,"What's in there, Hagrid?"
+141,6,Rubeus Hagrid,"Can't tell you, Harry. It's Hogwarts business. Very secret."
+142,6,Griphook,Stand back.
+143,6,Rubeus Hagrid,"Best not mention this to anyone, Harry."
+144,7,Harry Potter,I still need… a wand.
+145,7,Rubeus Hagrid,"A wand? Well, you'll want Ollivanders. Ain't no place better. Run along there, but wait. I just got one more thing I got to do. Won't be long."
+146,7,Harry Potter,Hello? Hello?
+147,7,Garrick Ollivander,"I wondered when I'd be seeing you, Mr. Potter. It seems only yesterday that your mother and father were in here buying their first wands. Ah. Here we are. Well, give it a wave. Apparently not. Perhaps this. No, no, definitely not! No matter... I wonder. Curious, very curious"
+148,7,Harry Potter,"Sorry, but what’s curious?"
+149,7,Garrick Ollivander,"I remember every wand I've ever sold, Mr. Potter. It just so happens that the phoenix, whose tail feather resides in your wand gave another feather, just one. It is curious that you should be destined for this wand when its brother gave you that scar. "
+150,7,Harry Potter,And… who owned that wand?
+151,7,Garrick Ollivander,"Oh, we do not speak his name. The wand chooses the wizard, Mr. Potter. It's not always clear why, but I think it is clear that we can expect great things from you. After all, He-Who-Must-Not-Be-Named did great things… terrible, yes, but great."
+152,7,Rubeus Hagrid,Harry! Harry! Happy birthday!
+153,7,Harry Potter,Wow.
+154,8,Rubeus Hagrid,"You all right, Harry? Seem very quiet."
+155,8,Harry Potter,"He killed my parents, didn't he? The one who gave me this. You know, Hagrid, I know you do."
+156,8,Rubeus Hagrid,"First, and understand this, Harry, 'cause it's very important, not all wizards are good. Some of them go bad. A few years ago, there was one wizard who went as bad as you can go. And his name was V-…his name was V-..."
+157,8,Harry Potter,Maybe if you wrote it down?
+158,8,Rubeus Hagrid,"No, I can't spell it. All right. Voldemort."
+159,8,Harry Potter,Voldemort?
+160,8,Rubeus Hagrid,"Sshh! It was dark times, Harry, dark times. Voldemort started to gather some followers, brought 'em over to the dark side. Anyone that stood up to him ended up dead. Your parents fought against him, but nobody lived once he decided to kill 'em. Nobody…not one. 'Cept you."
+161,8,Harry Potter,Me? Voldemort tried to kill… me?
+162,8,Rubeus Hagrid,"Yes. That ain't no ordinary cut on your forehead, Harry. A mark like that only comes from being touched by a curse… and an evil curse at that."
+163,8,Harry Potter,What happened to…to You-Know-Who?
+164,8,Rubeus Hagrid,"Well, some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous. That's why everybody knows your name. You're the boy who lived."
+165,9,Rubeus Hagrid,"What're you looking at? Blimey, is that the time? Sorry, Harry, I'm gonna have to leave you. Dumbledore'll be wanting his- well, he'll be wanting to see me. Now, uh, your train leaves in ten minutes. Here's your ticket. Stick to it, Harry that's very important. Stick to your ticket."
+166,9,Harry Potter,"Platform nine-and-three-quarters? But, Hagrid, there must be a mistake. This says Platform nine-and-three-quarters. There's no such thing… is there?"
+167,9,Harry Potter," Excuse me, excuse me. Excuse me, sir. Can you tell me where I might find Platform nine-and-three-quarters?"
+168,9,Guard,"Nine-and-three-quarters? Think you're being funny, do ya?"
+169,9,Molly Weasley,"It's the same year after year. Always packed with Muggles, of course."
+170,9,Harry Potter,Muggles?
+171,9,Molly Weasley,"Come on. Platform nine-and-three-quarters this way! All right, Percy, you first."
+172,9,Molly Weasley,"Fred, you next."
+173,9,George Weasley,"He's not Fred, I am!"
+174,9,Fred Weasley,"Honestly, woman, you call yourself our mother."
+175,9,Molly Weasley,"Oh, I'm sorry, George."
+176,9,Fred Weasley,I'm only joking. I am Fred.
+177,9,Harry Potter,Excuse me! C-could you tell me how to-
+178,9,Molly Weasley,"How to get onto the platform? Yes, not to worry, dear. It's Ron's first time to Hogwarts as well. Now, all you've got to do is walk straight at the wall between platforms nine and ten. Best do it at a bit of a run if you're nervous."
+179,9,Ginny Weasley,Good luck.
+180,10,Ron Weasley,"Excuse me, do you mind? Everywhere else is full."
+181,10,Harry Potter,Not at all.
+182,10,Ron Weasley,"I'm Ron, by the way. Ron Weasley."
+183,10,Harry Potter,I'm Harry. Harry Potter.
+184,10,Ron Weasley,"So-so it's true? I mean, do you really have the… the…"
+185,10,Harry Potter,The what?
+186,10,Ron Weasley,Scar?
+187,10,Harry Potter,Oh.
+188,10,Ron Weasley,Wicked.
+189,10,Trolley lady,"Anything off the trolley, dears?"
+190,10,Ron Weasley,"No, thanks, I'm all set."
+191,10,Harry Potter,We'll take the lot!
+192,10,Ron Weasley,Whoa!
+193,10,Harry Potter,Bertie Bott's Every Flavour Beans?
+194,10,Ron Weasley,"They mean every flavour! There's chocolate and peppermint, and there's also spinach, liver and tripe. George sweared he got a bogey-flavoured one once!"
+195,10,Harry Potter,"These aren't real chocolate frogs, are they?"
+196,10,Ron Weasley,"It's just a spell. Besides, it's the cards you want. Each pack's got a famous witch or wizard. I got about five-hundred myself. Watch it! Oh, that's rotten luck. They've only got one good jump in them to begin with."
+197,10,Harry Potter,I got Dumbledore!
+198,10,Ron Weasley,I got about six of him.
+199,10,Harry Potter,"Hey, he's gone!"
+200,10,Ron Weasley,"Well, you can't expect him to hang around all day, can you? This is Scabbers by the way, pathetic isn't he?"
+201,10,Harry Potter,A little.
+202,10,Ron Weasley,Fred gave me a spell as to turn him yellow. Want to see?
+203,10,Harry Potter,Yeah!
+204,10,Ron Weasley,Ahem. Sun…
+205,10,Hermione Granger,Has anyone seen a toad? A boy named Neville's lost one.
+206,10,Ron Weasley,No.
+207,10,Hermione Granger,"Oh, are you doing magic? Let's see, then."
+208,10,Ron Weasley,"Sunshine, daisies, butter mellow, turn this stupid fat rat yellow!"
+209,10,Hermione Granger,"Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example… Oculus Reparo. That's better, isn't it? Holy Cricket, you're Harry Potter! I'm Hermione Granger, and you are..?"
+210,10,Ron Weasley,I'm… Ron Weasley.
+211,10,Hermione Granger,"Pleasure. You two better change into your robes. I expect we'll be arriving soon. You've got dirt, on your nose, by the way, did you know? Just there."
+212,11,Rubeus Hagrid,"Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!"
+213,11,Rubeus Hagrid,"Hello, Harry."
+214,11,Harry Potter,"Hey, Hagrid."
+215,11,Ron Weasley,Whoa!
+216,11,Rubeus Hagrid,"Right then. This way to the boats! Come on now, follow me!"
+217,11,Ron Weasley,Wicked.
+218,11,Minerva McGonagall,"Welcome to Hogwarts. Now, in a few moments, you will pass through these doors and join your classmates. But before you can take your seats, you must be sorted into your houses. They are Gryffindor, Hufflepuff, Ravenclaw and Slytherin. Now, while you're here, your house will be like your family. Your triumphs will earn you house points. Any rule breaking, and you will lose points. At the end of the year, the house with the most points is awarded the house cup."
+219,11,Neville Longbottom,Trevor! Sorry.
+220,11,Minerva McGonagall,The sorting ceremony will begin momentarily.
+221,11,Draco Malfoy,"It's true then, what they're saying on the train. Harry Potter has come to Hogwarts. This is Crabbe and Goyle. And I'm Malfoy… Draco Malfoy. Think my name's funny, do you? No need to ask yours. Red hair, and a half-me-down robe? You must be a Weasley. Well, soon find that some wizarding families are better than others, Potter. Don't want to go making friends with the wrong sort. I can help you there."
+222,11,Harry Potter,"I think I can tell who the wrong sort are for myself, thanks."
+223,11,Minerva McGonagall,We're ready for you now. Follow me.
+224,12,Hermione Granger,"It's not real, the ceiling. It's just bewitched to look like the night sky. I read about it in Hogwarts: A History."
+225,12,Minerva McGonagall,"Will you wait along here, please? Now, before we begin, Professor Dumbledore would like to say a few words."
+226,12,Albus Dumbledore,"I have a few start of term notices I wish to announce. The first years please note that the Dark Forest is strictly forbidden to all students. Also, our caretaker, Mr. Filch has asked me to remind you that the third floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you."
+227,12,Minerva McGonagall,"When I call your name, you will come forth. I shall place the sorting hat on your head, and you will be sorted into your houses. Hermione Granger."
+228,12,Hermione Granger,"Oh no. Okay, relax."
+229,12,Ron Weasley,"Mental, that one, I'm telling you."
+230,12,Sorting Hat,"Ah, right then…hmm…right. Okay, Gryffindor!"
+231,12,Minerva McGonagall,Draco Malfoy.
+232,12,Sorting Hat,SLYTHERIN!
+233,12,Ron Weasley,There isn't a witch or wizard who went bad who wasn't in Slytherin.
+234,12,Minerva McGonagall,Susan Bones.
+235,12,Harry Potter,Ahh!
+236,12,Ron Weasley,"Harry, what is it?"
+237,12,Harry Potter,"Nothing… nothing, I'm fine."
+238,12,Sorting Hat,Let's see. I know… Hufflepuff!
+239,12,Minerva McGonagall,Ronald Weasley.
+240,12,Sorting Hat,HA! Another Weasley. I know just what to do with you… Gryffindor!
+241,12,Minerva McGonagall,Harry Potter.
+242,12,Sorting Hat,"Hmm… difficult. Very difficult. Plenty of courage, I see, not a bad mind either. There's talent, oh yes, and a thirst to prove yourself. But where to put you?"
+243,12,Harry Potter,Not Slytherin. Not Slytherin.
+244,12,Sorting Hat,"Not Slytherin, eh? Are you sure? You could be great, you know. It's all here in your head. And Slytherin will help you on the way to greatness! There's no doubt about that. No?"
+245,12,Harry Potter,Not Slytherin… Anything but Slytherin.
+246,12,Sorting Hat,"Well, if you're sure, better be… Gryffindor!"
+247,12,Fred Weasley,We got Potter! We got Potter!
+248,12,George Weasley,We got Potter! We got Potter!
+249,13,Minerva McGonagall,"Your attention, please."
+250,13,Albus Dumbledore,Let the feast… begin.
+251,13,Harry Potter,Wow.
+252,13,Seamus Finnigan,I'm half and half. Me dad's a Muggle. Mam's a witch. Bit of a nasty shock for him when he found out.
+253,13,Harry Potter,"Say, Percy, who's that teacher talking to Professor Quirrell?"
+254,13,Percy Weasley,"Oh, that's Professor Snape, head of Slytherin house."
+255,13,Harry Potter,What's he teach?
+256,13,Percy Weasley,Potions. But everyone knows it's the Dark Arts he fancies. He's been after Quirrell's job for years.
+257,13,Ron Weasley,Ahhh!
+258,13,Nearly Headless Nick,Hello! How are you? Welcome to Gryffindor.
+259,13,Bloody Baron,Whoo-hoo-hoo!
+260,13,Percy Weasley,"Hello, Sir Nicholas. Have a nice summer?"
+261,13,Nearly Headless Nick,"Dismal. Once again, my request to join the headless hunt has been denied."
+262,13,Ron Weasley,I know you! You're Nearly Headless Nick!
+263,13,Nearly Headless Nick,I prefer Sir Nicholas if you don't mind.
+264,13,Hermione Granger,Nearly headless? How can you be nearly headless?
+265,13,Nearly Headless Nick,Like this.
+266,13,Ron Weasley,Ahhh!
+267,13,Percy Weasley,"Gryffindors, follow me, please. Keep up. Thank you. This is the most direct path to the dormitories. Oh, and keep an eye on the staircases… they like to change. Keep up, please, and follow me. Quickly now, come on. Come on."
+268,13,Neville Longbottom,"Seamus, that picture's moving!"
+269,13,Ron Weasley,"Look at that one, Harry!"
+270,13,Harry Potter,I think she fancies you.
+271,13,The Fat Lady,Password?
+272,13,Percy Weasley,"Caput Draconis. Follow me, everyone. Keep up, quickly, come on. Gather 'round here. Welcome to the Gryffindor Common Room. Boys' dormitories, upstairs and down to your left. Girls, the same on your right. You'll find that your belongings have already been brought up."
+273,14,Ron Weasley,"Whew, made it. Can you imagine the look on old McGonagall's face if we were late?"
+274,14,Ron Weasley,That was bloody brilliant.
+275,14,Minerva McGonagall,"Thank you for that assessment, Mr. Weasley. Perhaps if I were to transfigure Mr. Potter and yourself into a pocketwatch, that way one of you might be on time."
+276,14,Harry Potter,We got lost.
+277,14,Minerva McGonagall,Then perhaps a map? I trust you don't need one to find your seats.
+278,14,Severus Snape,"There will be no foolish wand waving or silly incantations in this class. As such, I don't expect many of you to appreciate the subtle science and exact art that is potion making. However, for those select few… who possess the predisposition, I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory and even put a stopper... in death. Then again, maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confident enough to... not... pay... attention. Mr. Potter. Our... new... celebrity. Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood? You don't know? Well, let's try again. Where, Mr. Potter, would you look if I asked you to find me a bezoar?"
+279,14,Harry Potter,"I don't know, sir."
+280,14,Severus Snape,And what is the difference between monkshood and wolfbane?
+281,14,Harry Potter,"I don't know, sir."
+282,14,Severus Snape,"Pity. Clearly, fame isn't everything… is it, Mr. Potter?"
+283,14,Seamus Finnigan,"Eye of rabbit, harp string hum. Turn this water, into rum. Eye of rabbit, harp string hum…"
+284,14,Harry Potter,What's Seamus trying to do to that glass of water?
+285,14,Ron Weasley,"Turn it into rum. Actually managed a weak tea yesterday, before- Ah! Mail's here!"
+286,14,Harry Potter,Can I borrow this? Thanks.
+287,14,Seamus Finnigan,"Hey, look! Neville's got a Remembrall!"
+288,14,Hermione Granger,"I've read about those. When the smoke turns red, it means you've forgotten something."
+289,14,Neville Longbottom,"The only problem is, I can't remember what I've forgotten."
+290,14,Harry Potter,"Hey, Ron, somebody broke into Gringotts, listen. Believed to be the work of dark witches or wizards unknown, Gringotts goblins, while acknowledging the breach, insist that nothing was taken. The vault in question, number seven-hundred-and-thirteen, had in fact been emptied earlier that same day. That's odd. That's the vault Hagrid and I went to."
+291,15,Rolanda Hooch,"Good afternoon, class."
+292,15,Class,"Good afternoon, Madam Hooch."
+293,15,Rolanda Hooch,"Good afternoon, Amanda, good afternoon. Welcome to your first flying lesson. Well what are you waiting for? Everyone step up to the left side of their broomstick. Come on now, hurry up. Stick your right hand over the broom and say, up!"
+294,15,Harry Potter,Up! Wow.
+295,15,Draco Malfoy,Up! Wow.
+296,15,Rolanda Hooch,With feeling!
+297,15,Hermione Granger,Up. Up. Up. Up.
+298,15,Ron Weasley,"Up! Ow! Shut up, Harry."
+299,15,Rolanda Hooch,"Now, once you've got hold of your broom, I want you to mount it. And grip it tight, you don't want to be sliding off the end. When I blow my whistle, I want each of you to kick off the ground, hard. Keep your broom steady, hover for a moment, and then lean forward slightly and touch back down. On my whistle...three...two... "
+300,15,Neville Longbottom,Oh…
+301,15,Rolanda Hooch,Mr. Longbottom. M-M-Mr. Longbottom! Mr. Longbottom!
+302,15,Neville Longbottom,Ahhh!
+303,15,Rolanda Hooch,Mr. Longbottom!
+304,15,Neville Longbottom,Down! Down! Ahhh!
+305,15,Harry Potter,Neville!
+306,15,Neville Longbottom,Help!!
+307,15,Rolanda Hooch,Come back down this instant!
+308,15,Neville Longbottom,AHHH!! Help!
+309,15,Rolanda Hooch,Mr. Longbottom!
+310,15,Neville Longbottom,Ahhhhh!! Whoa! AHHH!
+311,15,Rolanda Hooch,Everyone out of the way!
+312,15,Neville Longbottom,Ow ow ow ow.
+313,15,Rolanda Hooch,"Oh, oh, oh, oh dear. It's a broken wrist. Tch, tch, tch. Good boy, come on now, up you get. Everyone's to keep their feet firmly on the ground while I take Mr. Longbottom to the hospital wing. Understand? If I see a single broom in the air, the one riding it will find themselves out of Hogwarts before they can say Quidditch."
+314,15,Draco Malfoy,"Did you see his face? Maybe if the fat lump had given this a squeeze, he'd have remembered to fall on his fat arse."
+315,15,Harry Potter,"Give it here, Malfoy."
+316,15,Draco Malfoy,"No. I think I'll leave it somewhere for Longbottom to find. How 'bout up on the roof? What's the matter, Potter? Bit beyond your reach?"
+317,15,Hermione Granger,"Harry, no way! You heard what Madam Hooch said! Besides, you don't even know how to fly! What an idiot."
+318,15,Harry Potter,"Give it here, Malfoy, or I'll knock you off your broom."
+319,15,Draco Malfoy,Is that so? Have it your way then!
+320,15,Minerva McGonagall,Harry Potter? Follow me.
+321,15,Quirinus Quirrell,An iguana s-such as this is…
+322,15,Minerva McGonagall,You wait here.
+323,15,Quirinus Quirrell,…an essential in-gredient.
+324,15,Minerva McGonagall,"Professor Quirrell, excuse me, excuse me. Could I borrow Wood for a moment, please?"
+325,15,Quirinus Quirrell,"Oh , yes yes, of course."
+326,15,Minerva McGonagall,"Potter, this is Oliver Wood. Wood, I have found you a Seeker!"
+327,15,Nearly Headless Nick,Have you heard? Harry Potter's the new Gryffindor Seeker. I always knew he'd do well.
+328,15,Ron Weasley,Seeker? But first years never make their house teams! You must be the youngest Quidditch player in-
+329,15,Harry Potter,A century! According to McGonagall.
+330,15,Fred Weasley,"Hey, well done, Harry, Wood's just told us!"
+331,15,Ron Weasley,Fred and George are on the team too. Beaters.
+332,15,George Weasley,"Our job is to make sure that you don't get bloodied up too bad. Can't make any promises, of course. Rough game, Quidditch."
+333,15,Fred Weasley,Brutal. But no one's died in years. Someone will vanish occasionally…
+334,15,George Weasley,But they'll turn up in a month or two!
+335,15,Ron Weasley,"Oh, go on, Harry, Quidditch is great. Best game there is! And you'll be great too!"
+336,15,Harry Potter,But I've never even played Quidditch. What if I make a fool of myself?
+337,15,Hermione Granger,You won't make a fool of yourself. It's in your blood.
+338,15,Ron Weasley,"Whoa. Harry, you never told me your father was a Seeker too!"
+339,15,Harry Potter,I didn't know.
+340,16,Ron Weasley,"I'm telling you, it's spooky. She knows more about you than you do."
+341,16,Harry Potter,Who doesn't?
+342,16,Ron Weasley,Ahhh!
+343,16,Harry Potter,What's happening?
+344,16,Hermione Granger,"The staircases change, remember?"
+345,16,Harry Potter,Let's go this way.
+346,16,Ron Weasley,Before the staircase moves again.
+347,16,Harry Potter,Does anyone feel like… we shouldn't be here?
+348,16,Hermione Granger,We're not supposed to be here. This is the third floor. It's forbidden.
+349,16,Harry Potter,Let's go.
+350,16,Ron Weasley,It's Filch's cat!
+351,16,Harry Potter,Run! Quick! Let's hide through that door!
+352,16,Harry Potter,It's locked!
+353,16,Ron Weasley,That's it! We're done for!
+354,16,Hermione Granger,"Oh, move over! Alohomora. Get in."
+355,16,Ron Weasley,Alohomora?
+356,16,Hermione Granger,"Standard Book of Spells, Chapter Seven."
+357,16,Argus Filch,"Anyone here, my sweet? Come on."
+358,16,Hermione Granger,Filch is gone.
+359,16,Ron Weasley,Probably thinks this door's locked.
+360,16,Hermione Granger,It was locked.
+361,16,Harry Potter,And for good reason. AHHHHH!
+362,16,Hermione Granger,AHHHHH!
+363,16,Ron Weasley,AHHHHH!
+364,16,Ron Weasley,What do they think they're doing? Keeping a thing like that locked up in a school.
+365,16,Hermione Granger,"You don't use your eyes, do you? Didn't you see what it was standing on?"
+366,16,Ron Weasley,"I wasn't looking at its feet! I was a bit preoccupied with its heads! Or maybe you didn't notice, there were three!"
+367,16,Hermione Granger,It was standing on a trap door. Which means it wasn't there by accident. It's guarding something.
+368,16,Harry Potter,Guarding something?
+369,16,Hermione Granger,"That's right. Now, if you two don't mind, I'm going to bed, before either of you come up with another clever idea to get us killed… or worse, expelled!"
+370,16,Ron Weasley,She needs to sort out her priorities.
+371,17,Oliver Wood,"Quidditch is easy enough to understand. Each team has seven players, three chasers, two beaters, one keeper and a seeker. That's you. There are three kinds of balls. This one's called the Quaffle. Now, the chasers handle the Quaffle and try to put it through one of those three hoops. The keeper, that's me, defends the hoops. With me so far?"
+372,17,Harry Potter,I think so. What are those?
+373,17,Oliver Wood,"You better take this. Careful now, it's comin' back. Eh, not bad, Potter, you'd make a fair beater… Uh oh."
+374,17,Harry Potter,What is that?
+375,17,Oliver Wood,"Bludger. Nasty little buggers. But you are the seeker, and the only thing I want you to worry about is this… the Golden Snitch."
+376,17,Harry Potter,I like this ball.
+377,17,Oliver Wood,"Ah, you like it now. Just wait. It's wicked fast and damn near impossible to see."
+378,17,Harry Potter,What do I do with it?
+379,17,Oliver Wood,"You catch it… before the other team's seeker. You catch this, the game is over. You catch this, and we win."
+380,17,Harry Potter,Whoa.
+381,17,Filius Flitwick,"One of a wizard's most rudimentary skills is levitation, the ability to make objects fly. Uh, do you all have your feathers? Good. Now, uh, don't forget the nice wrist movement we’ve been practicing, hmm? The swish and flick. Everyone."
+382,17,Class,Swish and flick.
+383,17,Filius Flitwick,Good. And enunciate. Wingardium Leviosa. Off you go then.
+384,17,Draco Malfoy,Wingardium Levio-saaa.
+385,17,Ron Weasley,Wingardium Leviosar!
+386,17,Hermione Granger,"Stop, stop, stop. You're going to take someone's eye out. Besides, you're saying it wrong. It's Leviosa, not Leviosar."
+387,17,Ron Weasley,"You do it then if you're so clever. Go on, go on."
+388,17,Hermione Granger,Wingardium Leviosa.
+389,17,Filius Flitwick,"Oh, well done! See here, everyone! Miss. Granger's done it! Oh, splendid!"
+390,17,Seamus Finnigan,Wingard Levosa.
+391,17,Filius Flitwick,"Well done, dear. Whoa! Ooh."
+392,17,Harry Potter,"I think we're going to need another feather over here, Professor."
+393,17,Ron Weasley,"It's Levioooosa, not Leviosaaar. She's a nightmare, honestly. No wonder she hasn't got any friends."
+394,17,Harry Potter,I think she heard you.
+395,18,Harry Potter,Where's Hermione?
+396,18,Neville Longbottom,Parvati Patil said that she wouldn't come out of the girls' bathroom. She said that she'd been in there all afternoon… crying.
+397,18,Quirinus Quirrell,TROLL! IN THE DUNGEON! T-TROLL IN THE DUNGEON! Thought you out to know.
+398,18,Albus Dumbledore,"SILENCE!!! Everyone will please, not panic."
+399,18,Percy Weasley,"Gryffindors, keep up please. And stay alert!"
+400,18,Harry Potter,How could a troll get in?
+401,18,Ron Weasley,Not by itself. Trolls are really stupid. Probably people playing jokes. What?
+402,18,Harry Potter,Hermione! She doesn't know!
+403,18,Ron Weasley,I think the troll's left the dungeon.
+404,18,Harry Potter,It's going into the girls' bathroom!
+405,18,Harry Potter,"Hermione, move!"
+406,18,Hermione Granger,Help! Help!
+407,18,Ron Weasley,"Hey, pea brain!"
+408,18,Hermione Granger,Ahhhh! Help!
+409,18,Harry Potter,"Whoa!! Whoa, whoa! "
+410,18,Ron Weasley,Ew.
+411,18,Harry Potter,Whoa whoa whoa! Do something!
+412,18,Ron Weasley,What?
+413,18,Harry Potter,Anything! Hurry up.
+414,18,Hermione Granger,Swish and flick!
+415,18,Ron Weasley,Wingardium Leviosa!
+416,18,Hermione Granger,Is it… dead?
+417,18,Harry Potter,I don't think so. Just knocked out. Ew. Troll bogies.
+418,18,Minerva McGonagall,"Oh! Oh my goodness! E-explain yourselves, both of you!"
+419,18,Ron Weasley,"Well, what it is…"
+420,18,Harry Potter,"Well, what it is…"
+421,18,Hermione Granger,"It's my fault, Professor McGonagall."
+422,18,Minerva McGonagall,Miss Granger?
+423,18,Hermione Granger,"I went looking for the troll. I'd read about them and thought I could handle it. But I was wrong. If Harry and Ron hadn't come and found me, I'd probably be dead."
+424,18,Minerva McGonagall,"Be that as it may be. It was an extremely foolish thing to do. I would have expected more rational behaviour on your part, Miss Granger. Five points will be taken from Gryffindor for your serious lack of judgment. As for you two gentlemen, I just hope you realise how fortunate you are. Not many students could take on a fully grown mountain troll and live to tell the tale. Five points... will be awarded to each of you, for sheer dumb luck."
+425,18,Quirinus Quirrell,Perhaps you ought to go… M-might wake up. Ahh!! Hehe…
+426,19,Ron Weasley,"Take a bit of toast, mate, go on."
+427,19,Hermione Granger,"Ron's right, Harry. You're going to need your strength today."
+428,19,Harry Potter,I'm not hungry.
+429,19,Severus Snape,"Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you, even if it is against Slytherin."
+430,19,Harry Potter,That explains the blood.
+431,19,Hermione Granger,Blood?
+432,19,Harry Potter,"Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that three headed dog. But, he got himself bitten. That's why he's limping."
+433,19,Hermione Granger,But why would anyone go near that dog?
+434,19,Harry Potter,"The day I was at Gringotts, Hagrid took something out of one of the vaults. He said it was Hogwarts business, very secret."
+435,19,Hermione Granger,So you're saying…
+436,19,Harry Potter,That's what the dog's guarding. That's what Snape wants.
+437,19,Hermione Granger,"Bit early for mail, isn't it?"
+438,19,Harry Potter,But I-I never get mail.
+439,19,Ron Weasley,Let's open it.
+440,19,Harry Potter,It's a broomstick!
+441,19,Ron Weasley,"That's not just any broomstick, Harry! It's a Nimbus two-thousand!"
+442,19,Harry Potter,But who..?
+443,19,Oliver Wood,"Scared, Harry?"
+444,19,Harry Potter,A little.
+445,19,Oliver Wood,That's all right. I felt the same way before my first game.
+446,19,Harry Potter,What happened?
+447,19,Oliver Wood,"Er, I don't really remember. Took a bludger to the head two minutes in. Woke up in the hospital a week later."
+448,19,Lee Jordan,"Hello, and welcome to Hogwarts' first Quidditch game of the season! Today's game is Slytherin versus Gryffindor!!"
+449,19,Neville Longbottom,Gryffindor!!
+450,19,Lee Jordan,The players take their positions as Madam Hooch steps out onto the field to begin the game.
+451,19,Rolanda Hooch,"Now, I want a nice clean game, from all of you."
+452,19,Lee Jordan,"The bludgers are up, followed by the Golden Snitch. Remember, the Snitch is worth one-hundred-and-fifty points. The seeker who catches the Snitch ends the game."
+453,19,Lee Jordan,"The Quaffle is released, and the game begins!"
+454,19,Lee Jordan,Angelina Johnson scores! Ten points for Gryffindor!
+455,19,Harry Potter,Yes! Whoa!
+456,19,Rubeus Hagrid,Well done!
+457,19,Lee Jordan,Slytherin takes possession of the Quaffle. Bletchley passes to Captain Marcus Flint.
+458,19,Ron Weasley,Yay!
+459,19,Seamus Finnigan,Yay!
+460,19,Harry Potter,Yes!
+461,19,Lee Jordan,Another ten points to Gryffindor!
+462,19,Marcus Flint,Give me that! Take that side!
+463,20,Harry Potter,Whoa! Whoa!
+464,20,Rubeus Hagrid,What's going on with Harry's broomstick?
+465,20,Hermione Granger,It's Snape! He's jinxing the broom!
+466,20,Ron Weasley,Jinxing the broom? What do we do?
+467,20,Hermione Granger,Leave it to me.
+468,20,Ron Weasley,"Come on, Hermione!"
+469,20,Hermione Granger,Lacarnum Inflamarae.
+470,20,Man,Fire! You're on fire!
+471,20,Severus Snape,What? Oh!
+472,20,Ron Weasley,Go!
+473,20,Rubeus Hagrid,Go go go!
+474,20,Rubeus Hagrid,Looks like he's gonna be sick!
+475,20,Lee Jordan,He's got the Snitch! Harry Potter receives one-hundred-and-fifty points for catching the Snitch! 
+476,20,Rolanda Hooch,Gryffindor win!
+477,20,Draco Malfoy,No!
+478,20,Rubeus Hagrid,Yes!
+479,20,Hermione Granger,Whoo-hoo!!
+480,21,Rubeus Hagrid,Nonsense! Why would Snape put a curse on Harry's broom?
+481,21,Harry Potter,Who knows? Why was he trying to get past that three-headed dog on Halloween?
+482,21,Rubeus Hagrid,Who told you 'bout Fluffy?
+483,21,Ron Weasley,Fluffy?
+484,21,Hermione Granger,That thing has a name?
+485,21,Rubeus Hagrid,Well of course he's got a name. He's mine. I bought him off an Irish fella I met down at the pub last year. Then I lent him to Dumbledore to guard the…
+486,21,Harry Potter,Yes?
+487,21,Rubeus Hagrid,"Shouldn't have said that. No more questions! Don't ask me any more questions. That's top secret, that is."
+488,21,Harry Potter,"But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it."
+489,21,Rubeus Hagrid,Codswallop. Professor Snape is a Hogwarts teacher.
+490,21,Hermione Granger,"Hogwarts teacher or not, I know a spell when I see one. I've read all about them. You've got to keep eye contact and Snape wasn't blinking."
+491,21,Harry Potter,Exactly.
+492,21,Rubeus Hagrid,"Now, you listen to me, all three of you. You're meddling in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Dumbledore and Nicholas Flamel."
+493,21,Harry Potter,Nicholas Flamel?
+494,21,Rubeus Hagrid,I shouldn't have said that. I should not have said that.
+495,21,Harry Potter,Nicholas Flamel. Who's Nicholas Flamel?
+496,21,Hermione Granger,I don't know.
+497,21,Harry Potter,Knight to E5.
+498,21,Ron Weasley,Queen to E5.
+499,21,Hermione Granger,That's totally barbaric!
+500,21,Ron Weasley,That's wizard's chess. I see you've packed.
+501,21,Hermione Granger,I see you haven't.
+502,21,Ron Weasley,Change of plans. My parents decided to go to Romania to visit my brother Charlie. He's studying dragons there.
+503,21,Hermione Granger,Good. You can help Harry then. He's going to go and look in the library for information on Nicholas Flamel.
+504,21,Ron Weasley,We've looked a hundred times.
+505,21,Hermione Granger,Not in the restricted section. Happy Christmas.
+506,21,Ron Weasley,I think we've had a bad influence on her.
+507,21,Ron Weasley,"Harry, wake up! Come on Harry, wake up! Happy Christmas, Harry."
+508,21,Harry Potter,"Happy Christmas, Ron. What are you wearing?"
+509,21,Ron Weasley,Oh. My mum made it. It looks like you've got one too.
+510,21,Harry Potter,I-I've got presents?
+511,21,Ron Weasley,Yeah! There they are.
+512,21,Harry Potter,Your father left this in my possession before he died. It is time it was returned to you. Use it well.
+513,21,Ron Weasley,What is it?
+514,21,Harry Potter,It's some kind of cloak.
+515,21,Ron Weasley,"Well, let's see then, put it on."
+516,21,Ron Weasley,Whoa!
+517,21,Harry Potter,My body's gone!
+518,21,Ron Weasley,I know what that is. That's an invisibility cloak.
+519,21,Harry Potter,I'm invisible?
+520,21,Ron Weasley,They're really rare. I wonder who gave it to you.
+521,21,Harry Potter,There was no name. It just said use it well.
+522,22,Harry Potter,Famous Fire Eaters…Fifteenth-Century Fiends…Flamel…Nicholas Flamel…where are you?
+523,22,Argus Filch,Who's there?! I know you're in there. You can't hide. Who is it? Show yourself.
+524,22,Quirinus Quirrell,Severus… I-I thought…
+525,22,Severus Snape,"You don't want me as your enemy, Quirrell."
+526,22,Quirinus Quirrell,W-what do you mean?
+527,22,Severus Snape,You know perfectly well what I mean. We'll have another chat soon…when you've had time to decide where your loyalties lie.
+528,22,Argus Filch,"Oh, Professors. I found this, in the restricted section. It's still hot. That means there's a student out of bed."
+529,23,Harry Potter,Mum? Dad?
+530,23,Harry Potter,Ron! You've really got to see this! Ron! You've got to see this! Ron! Come on! Get out of bed!
+531,23,Ron Weasley,Why?
+532,23,Harry Potter,"There's something you've got to see. Now, come on!"
+533,23,Harry Potter,"Come on. Come on. Come look, it's my parents!"
+534,23,Ron Weasley,I only see me.
+535,23,Harry Potter,"Look in properly. Go on. Stand there. You see them, don't you? That's my dad."
+536,23,Ron Weasley,"That's me! Only, I'm head boy… and I'm holding the Quidditch cup! And bloody hell, I'm Quidditch Captain too! I look good. Harry, do you think this mirror shows the future?"
+537,23,Harry Potter,How can it? Both my parents are dead.
+538,23,Albus Dumbledore,"Back again, Harry? I see that you, like so many before you have discovered the delights of the Mirror of Erised. I trust by now you realise what it does. Let me give you a clue. The happiest man on earth would look into the mirror and see only himself, exactly as he is."
+539,23,Harry Potter,"So, then it shows us what we want? Whatever we want?"
+540,23,Albus Dumbledore,"Yes…and no. It shows us nothing more or less than the deepest most desperate desires of our hearts. Now you, who have never known your family, you see them standing beside you. But remember this, Harry. This mirror gives us neither knowledge or truth. Men have wasted away in front of it, even gone mad. That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again. It does not do to dwell on dreams, Harry, and forget to live."
+541,24,Hermione Granger,I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.
+542,24,Ron Weasley,This is light?
+543,24,Hermione Granger,Of course! Here it is! Nicholas Flamel is the only known maker of the Philosopher's Stone!
+544,24,Ron Weasley,The what?
+545,24,Harry Potter,The what?
+546,24,Hermione Granger,"Honestly, don’t you two read? The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal."
+547,24,Ron Weasley,Immortal?
+548,24,Hermione Granger,It means you never die.
+549,24,Ron Weasley,I know what it means!
+550,24,Harry Potter,Sshhh!
+551,24,Hermione Granger,"The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his six-hundred-and-sixty-fifth birthday! That's what Fluffy's guarding on the third floor. That's what's under the trapdoor… the Philosopher's Stone!"
+552,24,Harry Potter,Hagrid!
+553,24,Rubeus Hagrid,"Oh hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today."
+554,24,Harry Potter,We know about the Philosopher's Stone!
+555,24,Hermione Granger,We know about the Philosopher's Stone!
+556,24,Ron Weasley,We know about the Philosopher's Stone!
+557,24,Rubeus Hagrid,Oh.
+558,24,Harry Potter,We think Snape's trying to steal it.
+559,24,Rubeus Hagrid,"Snape? Blimey, Harry, you're still not on about him, are you?"
+560,24,Harry Potter,"Hagrid, we know he's after the stone. We just don't know why."
+561,24,Rubeus Hagrid,Snape is one of the teachers protecting the Stone! He's not about to steal it!
+562,24,Harry Potter,What?
+563,24,Rubeus Hagrid,"You heard. Right. Come on now, I'm a bit preoccupied today."
+564,24,Harry Potter,Wait a minute. One of the teachers?
+565,24,Hermione Granger,"Of course! There are other things defending the Stone, aren't there? Spells, enchantments!"
+566,24,Rubeus Hagrid,"That's right. Waste of bloody time, if you ask me. Ain't no one gonna get past Fluffy. Heheh, not a soul knows how. Except for me and Dumbledore. I shouldn't have told you that. I shouldn't have told you that. Oh! Ooh, oh, oh, oh!!"
+567,24,Harry Potter,"Uh, Hagrid, what exactly is that?"
+568,24,Rubeus Hagrid,That? It's a… it's um…
+569,24,Ron Weasley,"I know what that is! But Hagrid, how did you get one?"
+570,24,Rubeus Hagrid,"I won it, off a stranger I met down at the pub. Seemed quite glad to be rid of it, as a matter of fact."
+571,24,Hermione Granger,Is that… a dragon?
+572,24,Ron Weasley,That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.
+573,24,Rubeus Hagrid,"Isn't he beautiful? Oh, bless him, look. He knows his mummy. Heheh. Hello Norbert."
+574,24,Harry Potter,Norbert?
+575,24,Rubeus Hagrid,"Yeah, well, he's got to have a name, doesn't he? Don't you, Norbert?"
+576,24,Rubeus Hagrid,"Ohh! Ohh, ohh, oh, well… he'll have to be trained up a bit, of course. Who's that?"
+577,24,Harry Potter,Malfoy.
+578,24,Rubeus Hagrid,Oh dear.
+579,24,Harry Potter,Hagrid always wanted a dragon. He told me so the first time I met him.
+580,24,Ron Weasley,"It's crazy. And worse, Malfoy knows."
+581,24,Harry Potter,I don't understand. Is that bad?
+582,24,Ron Weasley,It's bad.
+583,24,Minerva McGonagall,Good evening.
+584,24,Minerva McGonagall,"Nothing, I repeat, nothing gives a student the right to walk about the school at night. Therefore, as punishment for your actions, fifty points will be taken."
+585,24,Harry Potter,Fifty?!
+586,24,Minerva McGonagall,"Each. And to ensure it doesn't happen again, all four of you will receive detention."
+587,24,Draco Malfoy,"Excuse me, Professor. Perhaps I heard you wrong. I thought you said the four of us."
+588,24,Minerva McGonagall,"No, you heard me correctly, Mr. Malfoy. You see as honorable as your intentions were, you too were out of bed after hours. You will serve detention with your classmates."
+589,25,Argus Filch,"A pity they let the old punishments die. There was a time detention would find you hanging by your thumbs in the dungeons. God I miss the screaming. You'll be serving detention with Hagrid tonight. He's got a little job to do inside the dark forest. A sorry lot this, Hagrid. Oh, good God, man, you're not still on about that bloody dragon."
+590,25,Rubeus Hagrid,Norbert's gone. Dumbledore sent him off to Romania to live in a colony.
+591,25,Hermione Granger,"Well, that's good, isn't it? He'll be with his own kind."
+592,25,Rubeus Hagrid,"Yeah, but what if he don't like Romania? What if the other dragons are mean to him? He's only a baby after all."
+593,25,Argus Filch,"Oh, for God's sake, pull yourself together, man. You're going into the forest after all. Got to have your wits about you."
+594,25,Draco Malfoy,The forest? I thought that was a joke! We can't go in there! Students aren't allowed. And there are… werewolves!
+595,25,Argus Filch,"There's more than werewolves in those trees, lad. You can be sure of that. Nighty-night."
+596,25,Rubeus Hagrid,Right. Let's go.
+597,25,Harry Potter,"Hagrid, what's that?"
+598,25,Rubeus Hagrid,"What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something. So, it's our job to find the poor beast. Ron, Hermione, you'll come with me."
+599,25,Ron Weasley,Okay.
+600,25,Rubeus Hagrid,"And Harry, you'll go with Malfoy."
+601,25,Draco Malfoy,Okay. Then I get Fang!
+602,25,Rubeus Hagrid,"Fine. Just so you know, he's a bloody coward."
+603,25,Draco Malfoy,You wait 'til my father hears about this. This is servant's stuff.
+604,25,Harry Potter,"If I didn't know better, Draco, I'd say you were scared."
+605,25,Draco Malfoy,"Scared, Potter? Did you hear that? Come on, Fang. Scared."
+606,25,Harry Potter,"What is it, Fang?"
+607,25,Draco Malfoy,HELP!!!!!
+608,25,Firenze,"Harry Potter, you must leave. You are known to many creatures here. The forest is not safe at this time. Especially for you."
+609,25,Harry Potter,But what was that thing you saved me from?
+610,25,Firenze,"A monstrous creature. It is a terrible crime to slay a unicorn. Drinking the blood of a unicorn will keep you alive even if you are an inch from death. But at a terrible price. You have slain something so pure that the moment the blood touches your lips, you will have a half-life. A cursed life."
+611,25,Harry Potter,But who would choose such a life?
+612,25,Firenze,Can you think of no one?
+613,25,Harry Potter,Do you mean to say… that thing that killed the unicorn… that was drinking its blood…that was Voldemort?
+614,25,Firenze,Do you know what is hidden in the school at this very moment?
+615,25,Harry Potter,The Philosopher's Stone.
+616,25,Hermione Granger,Harry!
+617,25,Rubeus Hagrid,"Hello there, Firenze. I see you've met our young Mr. Potter. You all right there, Harry?"
+618,25,Firenze,"Harry Potter, this is where I leave you. You're safe now. Good luck."
+619,26,Hermione Granger,"You mean You-Know-Who's out there right now, in the forest?"
+620,26,Harry Potter,"But he's weak. He's living off the unicorns. Don't you see? We had it wrong! Snape doesn't want the Stone for himself. He wants the Stone for Voldemort. With the Elixir of Life, Voldemort will be strong again. He'll… he'll come back."
+621,26,Ron Weasley,"But, if he comes back, you don't think he'll try to… kill you, do you?"
+622,26,Harry Potter,"I think if he'd had the chance, he might've tried to kill me tonight."
+623,26,Ron Weasley,"And to think, I've been worrying about my Potions final."
+624,26,Hermione Granger,"Hang on a minute. We're forgetting one thing. Who's the one wizard Voldemort always feared? Dumbledore. As long as Dumbledore's around, Harry, you're safe. As long as Dumbledore's around, you can't be touched."
+625,26,Hermione Granger,"I'd always heard Hogwarts end of year exams were frightful, but I found they're rather enjoyable."
+626,26,Ron Weasley,Speak for yourself. All right there Harry?
+627,26,Harry Potter,My scar. It keeps burning.
+628,26,Hermione Granger,It's happened before.
+629,26,Harry Potter,Not like this.
+630,26,Ron Weasley,Perhaps you should see the nurse.
+631,26,Harry Potter,I think it's a warning. It means danger's coming.
+632,26,Harry Potter,Oh. Of course.
+633,26,Hermione Granger,What is it?
+634,26,Harry Potter,"Don't you think it's a bit odd that what Hagrid wants more than anything is a dragon and a stranger turns up who just happens to have one? I mean, how many people wander around with dragon eggs in their pocket? Why didn't I see it before?"
+635,26,Harry Potter,"Hagrid, who gave you the dragon egg? What did he look like?"
+636,26,Rubeus Hagrid,I dunno. I never saw his face. He kept his hood up.
+637,26,Harry Potter,"This stranger though, you and he must have talked?"
+638,26,Rubeus Hagrid,"Well, he- he wanted to know what sort of creatures I looked after. I told him, I said after Fluffy, a dragon's gonna be no problem."
+639,26,Harry Potter,Did he seem interested in Fluffy?
+640,26,Rubeus Hagrid,"Well, of course he was interested in Fluffy. How often do you come across a three-headed dog, even if you're in the trade? But I told him, I said, I said, the trick with any beast is to know how to calm him. Take Fluffy for example, just play him a bit of music and he'll fall straight to sleep. I shouldn't have told you that. Where you going? Wait! Wait!"
+641,26,Harry Potter,"We have to see Professor Dumbledore, immediately!"
+642,26,Minerva McGonagall,I'm afraid Professor Dumbledore is not here. He received an urgent owl from the Ministry of Magic and left immediately for London.
+643,26,Harry Potter,He's gone? But this is important! This is about the Philosopher's Stone.
+644,26,Minerva McGonagall,How do you know-?
+645,26,Harry Potter,Someone's going to try and steal it.
+646,26,Minerva McGonagall,"I don't know how you three found out about the Stone, but I assure you it is perfectly well protected. Now, would you go back to your dormitories? Quietly."
+647,26,Harry Potter,"That was no stranger Hagrid met in the village. It was Snape, which means he knows how to get past Fluffy."
+648,26,Hermione Granger,And with Dumbledore gone-
+649,26,Severus Snape,Good afternoon. Now what would three young Gryffindors such as yourselves be doing inside on a day like this?
+650,26,Hermione Granger,"Uh, uh, w-w-we were just-"
+651,26,Severus Snape,You ought to be careful. People will think you're…up to something.
+652,26,Hermione Granger,Now what do we do?
+653,26,Harry Potter,"We go down the trapdoor, tonight."
+654,27,Ron Weasley,"Trevor. Trevor, sshh, go! You shouldn't be here!"
+655,27,Neville Longbottom,"Neither should you. You're sneaking out again, aren't you?"
+656,27,Harry Potter,"No Neville, listen. We were-"
+657,27,Neville Longbottom,"No, I won't let you! You'll get Gryffindor into trouble again! I-I-I'll… fight you."
+658,27,Hermione Granger,"Neville, I'm really really sorry about this. Petrificus Totalus."
+659,27,Ron Weasley,"You're a little scary sometimes, you know that? Brilliant, but scary."
+660,27,Harry Potter,Let's go. Sorry.
+661,27,Hermione Granger,Sorry.
+662,27,Ron Weasley,"It's for your own good, you know."
+663,27,Hermione Granger,"Ow, you stood on my foot!"
+664,27,Ron Weasley,Sorry.
+665,27,Hermione Granger,Alohomora.
+666,27,Harry Potter,Wait a minute. He's… snoring. Snape's already been here. He's put a spell on the harp.
+667,27,Ron Weasley,Eugh. It's got horrible breath.
+668,27,Harry Potter,We have to move its paw.
+669,27,Ron Weasley,What?
+670,27,Harry Potter,Come on! Okay. Push.
+671,27,Harry Potter,"I'll go first. Don't follow until I give you a sign. If something bad happens, get yourselves out. Does it seem a bit… quiet to you?"
+672,27,Hermione Granger,The harp. It's stopped playing.
+673,27,Ron Weasley,Euuugh! Yuck! Eugh.
+674,27,Harry Potter,Jump!!
+675,27,Ron Weasley,"Ahhhhhhh!! Wow. Lucky this plant thing's here, really."
+676,27,Harry Potter,"Wow! Oh, ah!"
+677,27,Hermione Granger,"Stop moving, both of you. This is Devil's Snare. You have to relax. If you don't, it will only kill you faster."
+678,27,Ron Weasley,"Kill us faster? Oh, now I can relax! Hermione!"
+679,27,Harry Potter,Hermione!
+680,27,Ron Weasley,Now what are we gonna do?
+681,27,Hermione Granger,Just relax!
+682,27,Harry Potter,"Hermione, where are you?"
+683,27,Hermione Granger,Do what I say! Trust me!
+684,27,Ron Weasley,Ahhhhh!! Harry! Harry!
+685,27,Hermione Granger,Are you okay?
+686,27,Harry Potter,"Yeah, yeah, I'm fine."
+687,27,Ron Weasley,Ahhhh! Help!
+688,27,Hermione Granger,"He's not relaxing, is he?"
+689,27,Harry Potter,Apparently not.
+690,27,Hermione Granger,We've gotta do something!
+691,27,Harry Potter,What?
+692,27,Hermione Granger,"Eugh, I remember reading something in Herbology. Um, Devil's Snare, Devil's Snare. It's deadly fun, but will sulk in the Sun. That's IT! Devil's Snare hates sunlight! Lumus Solem."
+693,27,Ron Weasley,Ahhhhhhhhh!
+694,27,Harry Potter,"Ron, you okay?"
+695,27,Ron Weasley,Yeah.
+696,27,Harry Potter,Okay.
+697,27,Ron Weasley,Phew! Lucky we didn't panic.
+698,27,Harry Potter,Lucky Hermione pays attention in Herbology.
+699,27,Hermione Granger,What is that?
+700,27,Harry Potter,I don't know. Sounds like wings.
+701,28,Hermione Granger,Curious. I've never seen birds like these.
+702,28,Harry Potter,They're not birds. They're keys. And I bet one of them fits that door.
+703,28,Hermione Granger,What's this all about?
+704,28,Harry Potter,I don't know. Strange.
+705,28,Ron Weasley,"Alohomora! Well, it was worth a try."
+706,28,Hermione Granger,Eugh! What are we going to do? There must be a thousand keys up there.
+707,28,Ron Weasley,"We want a big, old-fashioned one. Probably rusty, like the handle."
+708,28,Harry Potter,There! I see it! The one with the broken wing!
+709,28,Hermione Granger,"What's wrong, Harry?"
+710,28,Harry Potter,It's too simple.
+711,28,Ron Weasley,"Oh go on Harry! If Snape can catch it on that old broomstick, you can. You're the youngest Seeker in a century!"
+712,28,Ron Weasley,This complicates things a bit.
+713,28,Harry Potter,Catch the key!
+714,28,Ron Weasley,Hurry up!
+715,28,Hermione Granger,I don't like this. I don't like this at all.
+716,28,Harry Potter,Where are we? A graveyard?
+717,28,Ron Weasley,This is no graveyard. It's a chessboard.
+718,28,Harry Potter,There's the door.
+719,28,Hermione Granger,Now what do we do?
+720,28,Ron Weasley,"It's obvious, isn't it? We've got to play our way across the room. All right, Harry, you take the empty bishop's square. Hermione, you'll be the queen-side castle. And as for me, I'll be a knight."
+721,28,Hermione Granger,What happens now?
+722,28,Ron Weasley,"Well, white moves first. And then…we play."
+723,28,Hermione Granger,"Ron, you don't suppose this is going to be like… real wizard's chess, do you?"
+724,28,Ron Weasley,"You there, D-5! Yes Hermione, I think this is going to be… exactly like wizard chess."
+725,28,Ron Weasley,Castle to E-4! Pawn to C-3! 
+726,29,Harry Potter,Wait a minute.
+727,29,Ron Weasley,"You understand right, Harry. Once I make my move, the queen will take me. Then you're free to check the king."
+728,29,Harry Potter,"No, Ron, no!"
+729,29,Hermione Granger,What is it?
+730,29,Harry Potter,He's going to sacrifice himself.
+731,29,Hermione Granger,No you can't! There must be another way!
+732,29,Ron Weasley,"Do you wanna stop Snape from getting that stone or not? Harry, it's you that has to go on. I know it. Not me. Not Hermione. You. Knight to H-3. Check"
+733,29,Harry Potter,"Ron! No! Don't move! Don't forget, we're still playing. Checkmate"
+734,29,Harry Potter,"Take care of Ron. Then go to the owlery, send a message to Dumbledore. Ron's right. I have to go on."
+735,29,Hermione Granger,"You'll be okay, Harry. You're a great wizard. You really are."
+736,29,Harry Potter,Not as good as you.
+737,29,Hermione Granger,"Heh, me? Books and cleverness. There are more important things. Friendship and bravery. And Harry, just be careful."
+738,30,Harry Potter,"Ow! You? N-no, it can't be! Snape, h-he w-was the-"
+739,30,Quirinus Quirrell,"Yes, he does seem the type, doesn't he? Next to him, who would suspect, p-p-poor s-s-s-stuttering Professor Quirrell?"
+740,30,Harry Potter,"But that day, during the Quidditch match, Snape tried to kill me."
+741,30,Quirinus Quirrell,"No dear boy, I tried to kill you! And trust me, if Snape's cloak hadn't caught fire and broken my eye contact, I would have succeeded, even with Snape muttering his little countercurse."
+742,30,Harry Potter,Snape was trying to save me?
+743,30,Quirinus Quirrell,"I knew you were a danger to me right from the off, especially after Halloween."
+744,30,Harry Potter,Th-then you let the troll in!
+745,30,Quirinus Quirrell,"Very good, Potter, yes. Snape, unfortunately, wasn't fooled. While everyone else was running about the dungeon, he went to the third floor to head me off. He, of course, never trusted me again. He rarely left me alone. But he doesn't understand. I'm never alone. Never. Now, what does this mirror do? I see what I desire. I see myself holding the Stone. But how do I get it?"
+746,30,Voldemort,Use the boy.
+747,30,Quirinus Quirrell,"Come here, Potter! Now! Tell me, what do you see? What is it? What do you see?!"
+748,30,Harry Potter,I'm shaking hands with Dumbledore. I've won the house cup.
+749,30,Voldemort,He lies.
+750,30,Quirinus Quirrell,Tell the truth!! What do you see?!
+751,30,Voldemort,Let me speak to him.
+752,30,Quirinus Quirrell,"Master, you are not strong enough."
+753,30,Voldemort,"I have strength enough for this. Harry Potter, we meet again."
+754,30,Harry Potter,Voldemort.
+755,31,Voldemort,"Yes, you see what I've become? See what I must do to survive? Live off another, a mere parasite. Unicorn blood can sustain me, but it cannot give me a body of my own. But there is something that can. Something that, conveniently enough, lies in your pocket. Stop him! Don't be a fool. Why suffer an horrific death, when you can join me, and live."
+756,31,Harry Potter,Never!
+757,31,Voldemort,"Haha. Bravery. Your parents had it too. Tell me, Harry, would you like to see your mother and father again, together? We can bring them back. All I ask is for something in return. That's it, Harry. There is no good and evil, there is only power, and those too weak to see it. Together, we'll do extraordinary things. Just give me the stone."
+758,31,Harry Potter,You liar!
+759,31,Voldemort,Kill him!
+760,31,Quirinus Quirrell,"Ahhh, ah ah, ahhhhhhh! What is this magic?"
+761,31,Voldemort,Fool! Get the stone!
+762,32,Albus Dumbledore,"Good afternoon, Harry. Tokens from your admirers?"
+763,32,Harry Potter,Admirers?
+764,32,Albus Dumbledore,What happened down in the dungeons beterrn you and Professor Quirrell is a complete secret. So naturally the whole school knows. I see that your friend Ronald has saved you the trouble of opening your chocolate frogs.
+765,32,Harry Potter,Ron was here? Is he all right? What about Hermione?
+766,32,Albus Dumbledore,Fine. They're both just fine.
+767,32,Harry Potter,But what happened to the Stone?
+768,32,Albus Dumbledore,"Relax, dear boy. The Stone has been destroyed. My friend Nicholas and I have had a little chat, and agreed it was best all around."
+769,32,Harry Potter,"But then Flamel, he'll die, won't he?"
+770,32,Albus Dumbledore,"He has enough Elixir to set his affairs in order. But yes, he will die."
+771,32,Harry Potter,"How is it I got the stone, sir? One minute I was staring in the mirror and-"
+772,32,Albus Dumbledore,"Ah. You see, only a person who wanted to find the Stone, but not use it, would be able to get it. That is one of my more brilliant ideas. And between you and me that is saying something."
+773,32,Harry Potter,"Does that mean, with the Stone gone, that is, that Voldemort can never come back?"
+774,32,Albus Dumbledore,"Ah, I'm afraid there are ways in which he can return. Harry, do you know why Professor Quirrell couldn't bear to have you touch him? It was because of your mother. She sacrificed herself for you, and that kind of act leaves a mark. No, no, this kind of mark cannot be seen. It lives in your very skin."
+775,32,Harry Potter,What is it?
+776,32,Albus Dumbledore,"Love, Harry, love. Ah. Bertie Bott's Every Flavour Beans. I was most unfortunate in my youth to come across a vomit flavoured one, and since then I'm afraid I have lost my liking for them. But I think I could be safe with a nice toffee… Mm… Alas. Earwax."
+777,33,Harry Potter,"All right there, Ron?"
+778,33,Ron Weasley,All right. You?
+779,33,Harry Potter,All right. Hermione?
+780,33,Hermione Granger,Never better.
+781,33,Albus Dumbledore,"Another year, gone! And now, as I understand it, the house cup needs awarded and the points stand thus. In fourth place, Gryffindor, with 312 points! In third place, Hufflepuff, with 352 points! Second, Ravenclaw, with 426 points! And in first place, with 472 points, Slytherin house! Yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account and I have a few last minute points to award. To Miss Hermione Granger, for the cool use of intellect while others were in grave peril, fifty points! Second, to Mr. Ronald Weasley, for the best played game of chess that Hogwarts has seen these many years, fifty points! And third, to Mr. Harry Potter, for pure love and outstanding courage, I award Gryffindor house, sixty points!"
+782,33,Hermione Granger,We're tied with Slytherin!
+783,33,Albus Dumbledore,"And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award ten points to Neville Longbottom! Assuming my calculations are correct, I believe that a change of decoration is in order! Gryffindor wins the House Cup!"
+784,34,Rubeus Hagrid,"Come on now, hurry up, you'll be late! Train's leaving. Go on. Come on, hurry up!"
+785,34,Hermione Granger,"Come on, Harry."
+786,34,Harry Potter,One minute.
+787,34,Rubeus Hagrid,"Thought you were leaving without sayin' goodbye, did ya? This is for you. "
+788,34,Harry Potter,"Thanks, Hagrid."
+789,34,Rubeus Hagrid,"Go on. On with you, on with you now. Oh, now listen Harry, if that dope of a cousin of yours, Dudley, gives you any grief, you could always threaten him with a nice pair of ears to go with that tail of his."
+790,34,Harry Potter,"But Hagrid, we're not allowed to do magic away from Hogwarts. You know that."
+791,34,Rubeus Hagrid,"I do, but your cousin don't, do he? Eh? Hmmhmm"
+792,34,Hermione Granger,"Feels strange to be going home, doesn't it?"
+793,34,Harry Potter,"I'm not going home, not really."
