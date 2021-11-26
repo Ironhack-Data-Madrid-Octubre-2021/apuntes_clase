@@ -18,6 +18,7 @@ def damelos():
     return jsonify(persons)
 
 
+
 @app.route("/frases/<name>")
 def frases(name):
     idioma = request.args.get("idioma")
@@ -27,14 +28,15 @@ def frases(name):
 
 
 
+@app.route("/nuevafrase", methods=["POST"])
+def insertamensaje():
+    scene = request.form.get("escena")
+    char_ = request.form.get("personaje")
+    dialogue = request.form.get("frase")
+    # PODRÍAMOS LLAMAR A FUNCIONES CHECK
+    print(scene, char_, dialogue)
 
-
-
-
-
-
-
-
+    return sqt.nuevomensaje(scene, dialogue, char_)
 
 
 
